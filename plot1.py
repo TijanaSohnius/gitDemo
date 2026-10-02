@@ -24,4 +24,4 @@ ax.set(
 
 ax.legend()
 fig.savefig("plot1.pdf")
-print("hello")
+print("hello world")
